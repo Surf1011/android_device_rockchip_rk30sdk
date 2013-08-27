@@ -364,8 +364,8 @@ PRODUCT_COPY_FILES += \
 	frameworks/native/data/etc/android.hardware.wifi.xml:system/etc/permissions/android.hardware.wifi.xml
 
 # ethernet settings
-PRODUCT_COPY_FILES += \
-        frameworks/base/data/etc/android.hardware.ethernet.xml:system/etc/permissions/android.hardware.ethernet.xml
+#PRODUCT_COPY_FILES += \
+#        frameworks/base/data/etc/android.hardware.ethernet.xml:system/etc/permissions/android.hardware.ethernet.xml
 
 #########################################################
 #	Phone
